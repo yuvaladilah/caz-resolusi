@@ -1,0 +1,7 @@
+rencana projek caz
+
+- javascript
+  * ES6
+  * Framework javascript
+- PHP frameworks
+- Mysql
