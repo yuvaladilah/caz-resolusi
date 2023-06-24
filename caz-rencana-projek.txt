@@ -4,3 +4,4 @@ rencana projek caz
   * ES6
   * Framework javascript
 - PHP frameworks
+- Mysql
